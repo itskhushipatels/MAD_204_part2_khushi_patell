@@ -1,0 +1,7 @@
+<resources>
+    <color name="green_button">#4CAF50</color> <!-- Green button -->
+    <color name="primary_color">#6200EE</color> <!-- Purple-ish -->
+    <color name="primary_dark">#3700B3</color>
+    <color name="secondary_color">#03DAC5</color> <!-- Teal-ish -->
+    <color name="white">#FFFFFF</color>
+</resources>
